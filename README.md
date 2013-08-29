@@ -1,4 +1,4 @@
 newcui
 ======
 
-newcui is a cms system
+NEWCUI IS A CMS SYSTEM
